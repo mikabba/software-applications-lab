@@ -1,0 +1,27 @@
+﻿# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Node / web applications
+node_modules/
+dist/
+build/
+.env.local
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
