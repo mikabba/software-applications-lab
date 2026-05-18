@@ -10,7 +10,17 @@ This repository collects management-oriented software applications, scheduling u
 |---|---|---|---|---|
 | Teachers Calendar Manager | Web Management Application | Scheduling / Operations | Deployed | [Open](https://www.accademiamusicalegirolamoscarasciullo.com/CalendarioDocenti/calendariodocenti.html) |
 
-## Teachers Calendar Manager
+## Screenshots
+
+### Teachers Calendar Manager
+
+![Teachers Calendar Manager - Login](assets/teachers-calendar-login.png)
+
+![Teachers Calendar Manager - Weekly View](assets/teachers-after-login.png)
+
+![Teachers Calendar Manager - Weekly View](assets/teachers-calendar-weekly-view.png)
+
+![Teachers Calendar Manager - PDF Export](assets/teachers-calendar-pdf-export.png)
 
 Teachers Calendar Manager is a web-based scheduling application developed to support the operational workflow of a music school.
 
