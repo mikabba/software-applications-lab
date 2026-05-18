@@ -8,17 +8,23 @@ This repository collects management-oriented software applications, scheduling u
 
 | Project | Type | Domain | Status | Live Demo |
 |---|---|---|---|---|
-| Teachers Calendar Manager | Web Management Application | Scheduling / Operations | Deployed | [Open](https://www.accademiamusicalegirolamoscarasciullo.com/CalendarioDocenti/calendariodocenti.html) |
+| [Teachers Calendar Manager](https://github.com/mikabba/teachers-calendar-manager) | Web Management Application | Scheduling / Operations | Deployed as standalone project | [Open](https://www.accademiamusicalegirolamoscarasciullo.com/CalendarioDocenti/calendariodocenti.html) |
 
-## Screenshots
+## Teachers Calendar Manager
 
-### Teachers Calendar Manager
-Teachers Calendar Manager is a web-based scheduling application developed to support the operational workflow of a music school.
+Teachers Calendar Manager started inside this software applications lab and has now been moved into a dedicated standalone repository:
+
+[Open standalone repository](https://github.com/mikabba/teachers-calendar-manager)
+
+It is a web-based scheduling application developed to support the operational workflow of a music school.
+
 The application helps manage teacher schedules, room availability, ordinary lessons, recovery lessons and daily calendar views.
+
+### Screenshots
 
 ![Teachers Calendar Manager - Login](assets/teachers-calendar-login.png)
 
-![Teachers Calendar Manager - Weekly View](assets/teachers-after-login.png)
+![Teachers Calendar Manager - After Login](assets/teachers-after-login.png)
 
 ![Teachers Calendar Manager - Weekly View](assets/teachers-calendar-weekly-view.png)
 
@@ -63,8 +69,8 @@ It complements my engineering portfolio by demonstrating:
 
 ## Next steps
 
-- Add screenshots
 - Add a system overview
 - Document the scheduling logic
 - Add technical implementation details
-- Consider moving the Teachers Calendar Manager into a standalone repository
+- Add more workflow-oriented prototypes
+- Move mature tools into standalone repositories when they become complete enough
