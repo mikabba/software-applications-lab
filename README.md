@@ -45,26 +45,6 @@ The application helps manage teacher schedules, room availability, ordinary less
 
 ---
 
-## Screenshots
-
-### Login
-
-![Teachers Calendar Manager - Login](assets/teachers-calendar-login.png)
-
-### After login
-
-![Teachers Calendar Manager - After Login](assets/teachers-after-login.png)
-
-### Weekly view
-
-![Teachers Calendar Manager - Weekly View](assets/teachers-calendar-weekly-view.png)
-
-### PDF export
-
-![Teachers Calendar Manager - PDF Export](assets/teachers-pdf-export.png)
-
----
-
 ## Why this repository exists
 
 This repository collects practical software tools built around real operational needs.
